@@ -1,4 +1,4 @@
-# AI Seminar Season #1 (Jan 17, 2022 - Feb 24, 2022)
+# NLP Seminar Season #1 (Jan 17, 2022 - Feb 24, 2022)
 [한양대학교 인공지능연구실](http://ai.hanyang.ac.kr/)에서 매주 진행하는 NLP Seminar 발표 자료를 담고 있습니다. Season #1 은 최신 NLP관련 paper을 선정하여 세미나를 진행합니다.
 
 ## Seminar Rules

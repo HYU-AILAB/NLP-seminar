@@ -19,11 +19,11 @@
 |04| Feb 3 | 윤혜경  | Syntax-Aware Action Targeting for Video Captioning |
 |05| Feb 7  | 백형렬  | Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training |
 |06| Feb 10  | 김근태  | Mitigating Language-Dependent Ethnic Bias in BERT |
-|07| Feb 14  | 조환희  | Neural Natural Logic Inference for Interpretable Question Answering |
-|08| Feb 17  | 김수형  | Joint Passage Ranking for Diverse Multi-Answer Retrieval |
-|09| Feb 21  | 윤혜경  | Open Hierarchical Relation Extraction |
-|10| Feb 24  | 백형렬  | BERT-ATTACK: Adversarial Attack Against BERT Using BERT |
-|11| Feb 28  | 김근태  | Narrative Embedding: Re-Contextualization Through Attention |
+|07| Feb 17  | 조환희  | Neural Natural Logic Inference for Interpretable Question Answering |
+|08| Feb 21  | 김수형  | Joint Passage Ranking for Diverse Multi-Answer Retrieval |
+|09| Feb 24  | 윤혜경  | Open Hierarchical Relation Extraction |
+|10| Feb 28  | 백형렬  | BERT-ATTACK: Adversarial Attack Against BERT Using BERT |
+|11| Mar 3  | 김근태  | Narrative Embedding: Re-Contextualization Through Attention |
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.

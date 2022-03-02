@@ -21,7 +21,7 @@
 |06| Feb 10  | 김근태  | Mitigating Language-Dependent Ethnic Bias in BERT |
 |07| Feb 17  | 조환희  | Neural Natural Logic Inference for Interpretable Question Answering |
 |08| Feb 21  | 김수형  | Joint Passage Ranking for Diverse Multi-Answer Retrieval |
-|09| Feb 24  | 윤혜경  | Open Hierarchical Relation Extraction |
+|09| Feb 24  | 윤혜경  | VideoBERT: A Joint Model for Video and Language Representation Learning |
 |10| Feb 28  | 백형렬  | BERT-ATTACK: Adversarial Attack Against BERT Using BERT |
 |11| Mar 3  | 김근태  | Narrative Embedding: Re-Contextualization Through Attention |
 

@@ -23,7 +23,7 @@
 |08| Feb 21  | 김수형  | Joint Passage Ranking for Diverse Multi-Answer Retrieval |
 |09| Feb 24  | 윤혜경  | VideoBERT: A Joint Model for Video and Language Representation Learning |
 |10| Feb 28  | 백형렬  | BERT-ATTACK: Adversarial Attack Against BERT Using BERT |
-|11| Mar 7  | 김근태  | Narrative Embedding: Re-Contextualization Through Attention |
+
 
 ## Git Manual & Markdown Editor
 * [Git & Github 메뉴얼](https://github.com/roomylee/deep-learning-seminar/blob/master/git%20%26%20github.pdf)을 참고하여 본인이 준비한 자료를 정상적으로 Repo에 올릴 수 있도록 한다.
